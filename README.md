@@ -4,19 +4,35 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-## Hi there 👋
+# Hi there 👋 I'm NEOH WEI JIAN 🧑‍🎓
 
+🎓 I'm currently pursuing a **Diploma in Computer Engineering**  
+💼 I'm **actively looking for an internship opportunity** to gain hands-on experience  
+📍 Based in Malaysia
 
-**HenryNeoh/HenryNeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
+- Programming: `C`, `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Tools: `Visual Studio Code`, `Git`, `Quartus II`, `Arduino IDE`, `CodeBlocks`, `KiCad 7.0`, `VeeCAD`, `LTspice`, `Quartus II`, `Cisco Packet Tracer`
+- Interests: Embedded Systems, Web Development, Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 What I'm Up To
+- 🌱 Currently learning: **React**, **Node.js**, and **IoT concepts**
+- 🔭 Working on: personal web projects and Arduino-based mini projects
+- 👯 Looking to collaborate on: beginner-friendly open source projects
+- 🤔 Looking for guidance on: building a strong GitHub project portfolio
+
+---
+
+## 📫 How to Reach Me
+- Email: [henryneoh22@gmail.com](mailto:henryneoh22@gmail.com)
+- LinkedIn: [www.linkedin.com/in/henry-neoh-wei-jian-7b44362a0](www.linkedin.com/in/henry-neoh-wei-jian-7b44362a0) *(Update this if you have one)*
+
+---
+
+## ⚡ Fun Fact
+> I love combining hardware with code—especially when a blinking LED is just the beginning of a smart system!
 
