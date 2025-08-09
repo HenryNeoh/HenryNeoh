@@ -31,7 +31,7 @@
 - Email: [henryneoh22@gmail.com](mailto:henryneoh22@gmail.com)
 - LinkedIn: [www.linkedin.com/in/henry-neoh-wei-jian-7b44362a0](https://www.linkedin.com/in/henry-neoh-wei-jian-7b44362a0)
 - Website: [https://portfolio1.edgeone.app](https://portfolio1.edgeone.app)
-- Phone : 017-3014638
+- Phone: 017-3014638
 
 ---
 
